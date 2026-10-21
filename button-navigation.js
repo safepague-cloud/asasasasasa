@@ -17,7 +17,7 @@ document.addEventListener(
 
     if (button === firstOfferButton) {
       window.__rt_L.assign(
-        "https://biblioteca.observatoriosaudepublica.com.br/blog/prevalencia-de-diabetes-no-brasil"
+        "https://comprasseguras.org.ua/c/8131419a5f"
       );
       return;
     }
